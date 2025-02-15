@@ -1,0 +1,1 @@
+Este mapa de calor destaca as regiões com maior concentração de participantes do PRODITEC no segundo semestre de 2024. A visualização facilita a identificação de áreas com maior adesão ao programa e auxilia na análise da distribuição geográfica dos cursistas.

@@ -1,0 +1,1 @@
+Este mapa interativo exibe a distribuição geográfica do número de escolas em cada município com participantes do PRODITEC, destacando sua localização por estado e município. A visualização permite compreender a cobertura do programa e identificar padrões regionais na adesão das instituições de ensino.

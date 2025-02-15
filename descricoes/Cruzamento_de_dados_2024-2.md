@@ -1,0 +1,1 @@
+Esta seção cruza os dados do Censo Escolar de 2023 com os inscritos no PRODITEC no segundo semestre de 2024. Os gráficos comparam a distribuição de matrículas por **região, estado e município**, permitindo avaliar a cobertura do programa em relação à rede escolar existente. As análises destacam padrões de participação e possíveis lacunas na distribuição dos cursistas.

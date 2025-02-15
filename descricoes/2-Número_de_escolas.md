@@ -1,0 +1,1 @@
+Esta seção apresenta a quantidade de escolas por município, estado e região, permitindo visualizar a distribuição da rede de ensino no Brasil. Os gráficos e tabelas mostram a concentração de instituições educacionais, auxiliando na análise da infraestrutura escolar e sua relação com a participação no PRODITEC.

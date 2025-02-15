@@ -1,0 +1,1 @@
+Esta página analisa a relação entre o número de escolas nos municípios e a taxa de evasão dos cursistas do PRODITEC. Os gráficos segmentam os municípios conforme o porte da rede escolar e apresentam a proporção de participantes que não concluíram o curso, possibilitando uma avaliação das condições que influenciam a permanência dos alunos.

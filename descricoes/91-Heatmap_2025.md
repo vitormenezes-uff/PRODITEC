@@ -1,0 +1,1 @@
+O heatmap desta página apresenta a concentração dos inscritos do PRODITEC no primeiro semestre de 2025. A análise permite visualizar as regiões com maior participação no programa e comparar a distribuição geográfica dos cursistas em relação ao período anterior.
